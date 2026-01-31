@@ -1,0 +1,546 @@
+2025-12-14 12:43:08,154 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:43:08,154 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:43:11,269 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:43:11,269 - INFO - Final token constructed successfully.
+2025-12-14 12:43:11,432 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:43:11,544 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:46:12,131 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-14 12:46:12,132 - WARNING - Initiating bot restart...
+2025-12-14 12:46:12,133 - ERROR - Online socket closed by remote host. Restarting.
+2025-12-14 12:46:12,133 - WARNING - Initiating bot restart...
+2025-12-14 12:46:12,141 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:46:12,537 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:46:12,537 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:46:14,678 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:46:14,679 - INFO - Final token constructed successfully.
+2025-12-14 12:46:14,812 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:46:14,976 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:49:14,984 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-14 12:49:14,985 - WARNING - Initiating bot restart...
+2025-12-14 12:49:14,992 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:49:15,375 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:49:15,375 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:49:18,535 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:49:18,536 - INFO - Final token constructed successfully.
+2025-12-14 12:49:18,666 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:49:18,781 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:52:18,830 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-14 12:52:18,834 - WARNING - Initiating bot restart...
+2025-12-14 12:52:18,841 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:52:19,277 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:52:19,277 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:52:21,046 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:52:21,047 - INFO - Final token constructed successfully.
+2025-12-14 12:52:21,133 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:52:21,219 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:55:21,321 - ERROR - Online socket closed by remote host. Restarting.
+2025-12-14 12:55:21,321 - WARNING - Initiating bot restart...
+2025-12-14 12:55:21,323 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-14 12:55:21,323 - WARNING - Initiating bot restart...
+2025-12-14 12:55:21,331 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:55:21,719 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:55:21,720 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:55:24,504 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:55:24,505 - INFO - Final token constructed successfully.
+2025-12-14 12:55:24,896 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:55:25,044 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:58:25,617 - ERROR - Online socket closed by remote host. Restarting.
+2025-12-14 12:58:25,618 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-14 12:58:25,624 - WARNING - Initiating bot restart...
+2025-12-14 12:58:25,626 - WARNING - Initiating bot restart...
+2025-12-14 12:58:25,640 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:58:26,015 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:58:26,015 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:58:30,371 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:58:30,371 - INFO - Final token constructed successfully.
+2025-12-14 12:58:30,571 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:58:30,842 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:59:33,689 - CRITICAL - A critical unhandled error occurred in connect loop: [Errno 103] Software caused connection abort. Restarting.
+2025-12-14 12:59:33,690 - CRITICAL - Unhandled error in sockf1 loop: [Errno 103] Software caused connection abort. Restarting.
+2025-12-14 12:59:33,693 - WARNING - Initiating bot restart...
+2025-12-14 12:59:33,691 - WARNING - Initiating bot restart...
+2025-12-14 12:59:33,705 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:59:34,145 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:59:34,146 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:59:34,149 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 12:59:34,149 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 12:59:47,355 - WARNING - Initiating bot restart...
+2025-12-14 12:59:47,726 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:59:47,726 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:59:47,729 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 12:59:47,730 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:06,125 - WARNING - Initiating bot restart...
+2025-12-14 13:00:06,484 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:06,484 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:06,488 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:06,488 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:12,889 - WARNING - Initiating bot restart...
+2025-12-14 13:00:13,271 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:13,271 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:13,275 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:13,275 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:18,276 - WARNING - Initiating bot restart...
+2025-12-14 13:00:18,755 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:18,756 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:18,759 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:18,759 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:23,760 - WARNING - Initiating bot restart...
+2025-12-14 13:00:24,119 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:24,119 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:24,122 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:24,123 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:29,600 - WARNING - Initiating bot restart...
+2025-12-14 13:00:29,948 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:29,948 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:29,951 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:29,952 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:36,451 - WARNING - Initiating bot restart...
+2025-12-14 13:00:36,806 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:36,806 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:36,810 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:36,811 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:43,898 - WARNING - Initiating bot restart...
+2025-12-14 13:00:44,267 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:44,268 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:44,271 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:44,271 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:49,273 - WARNING - Initiating bot restart...
+2025-12-14 13:00:49,639 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:49,639 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:49,643 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:49,644 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:54,645 - WARNING - Initiating bot restart...
+2025-12-14 13:00:54,994 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:54,995 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:54,999 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:54,999 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:05,224 - WARNING - Initiating bot restart...
+2025-12-14 13:01:05,650 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:05,650 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:05,654 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:05,654 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:10,694 - WARNING - Initiating bot restart...
+2025-12-14 13:01:11,042 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:11,042 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:11,046 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:11,046 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:16,397 - WARNING - Initiating bot restart...
+2025-12-14 13:01:16,759 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:16,760 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:16,763 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:16,763 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:21,766 - WARNING - Initiating bot restart...
+2025-12-14 13:01:22,120 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:22,121 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:22,124 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:22,124 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:27,125 - WARNING - Initiating bot restart...
+2025-12-14 13:01:27,493 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:27,494 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:27,498 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:27,498 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:43,052 - WARNING - Initiating bot restart...
+2025-12-14 13:01:43,427 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:43,427 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:43,430 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:43,430 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:51,353 - WARNING - Initiating bot restart...
+2025-12-14 13:01:51,736 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:51,736 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:51,740 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:51,740 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:56,742 - WARNING - Initiating bot restart...
+2025-12-14 13:01:57,110 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:57,110 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:57,114 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:57,114 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:02:02,116 - WARNING - Initiating bot restart...
+2025-12-14 13:02:02,483 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:02:02,483 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:02:02,486 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:02:02,486 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:02:07,487 - WARNING - Initiating bot restart...
+2025-12-14 13:02:07,853 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:02:07,854 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:02:07,858 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:02:07,858 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:02:12,861 - WARNING - Initiating bot restart...
+2025-12-14 13:02:13,220 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:02:13,220 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:02:13,224 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:02:13,224 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:02:18,224 - WARNING - Initiating bot restart...
+2025-12-14 13:02:18,578 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:02:18,578 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:02:18,582 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:02:18,582 - INFO - Restarting the entire application in 5 seconds...
+2026-01-10 14:19:59,609 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-10 14:19:59,611 - INFO - Starting client for ID: 4030113484
+2026-01-10 14:20:03,206 - INFO - Token decoded. Account ID: 12590847871
+2026-01-10 14:20:03,209 - INFO - Final token constructed successfully.
+2026-01-10 14:20:03,334 - INFO - [WHISPER] Connected to 202.81.109.201:39801
+2026-01-10 14:20:03,460 - INFO - [ONLINE] Connected to 202.81.109.172:39699
+2026-01-10 14:22:32,281 - INFO - [AUTO] Auto start loop started for team 3003133
+2026-01-10 14:23:19,944 - INFO - [AUTO] Left team 3003133 to rejoin again.
+2026-01-10 14:23:20,100 - ERROR - Online socket closed by remote host. Restarting.
+2026-01-10 14:23:20,104 - WARNING - Initiating bot restart...
+2026-01-10 14:23:20,150 - ERROR - Whisper socket closed by remote host. Restarting.
+2026-01-10 14:23:20,152 - WARNING - Initiating bot restart...
+2026-01-10 14:23:20,166 - ERROR - Error during pre-restart cleanup: (pid=24552)
+2026-01-10 14:23:23,889 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-10 14:23:23,893 - INFO - Starting client for ID: 4030113484
+2026-01-11 19:18:18,604 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:18:18,606 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:18:22,198 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 19:18:22,200 - INFO - Final token constructed successfully.
+2026-01-11 19:18:22,297 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 19:18:22,406 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 19:21:22,450 - ERROR - Whisper socket closed by remote host. Restarting.
+2026-01-11 19:21:22,472 - WARNING - Initiating bot restart...
+2026-01-11 19:21:22,588 - ERROR - Error during pre-restart cleanup: (pid=7730)
+2026-01-11 19:21:25,831 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:21:25,832 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:21:30,415 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 19:21:30,416 - INFO - Final token constructed successfully.
+2026-01-11 19:21:30,531 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 19:21:30,648 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 19:22:36,864 - INFO - [AUTO] Auto start loop started for team 2288392
+2026-01-11 19:23:20,124 - INFO - [AUTO] Left team 2288392 to rejoin again.
+2026-01-11 19:24:07,755 - INFO - [AUTO] Left team 2288392 to rejoin again.
+2026-01-11 19:24:52,038 - INFO - [AUTO] Left team 2288392 to rejoin again.
+2026-01-11 19:25:22,132 - INFO - Shutdown signal received. Exiting.
+2026-01-11 19:31:37,690 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:31:37,691 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:31:41,948 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 19:31:41,950 - INFO - Final token constructed successfully.
+2026-01-11 19:31:42,058 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 19:31:42,167 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 19:32:50,296 - CRITICAL - A critical unhandled error occurred in connect loop: [Errno 103] Software caused connection abort. Restarting.
+2026-01-11 19:32:50,301 - CRITICAL - Unhandled error in sockf1 loop: [Errno 103] Software caused connection abort. Restarting.
+2026-01-11 19:32:50,302 - WARNING - Initiating bot restart...
+2026-01-11 19:32:50,314 - WARNING - Initiating bot restart...
+2026-01-11 19:32:50,387 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 19:32:53,618 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:32:53,619 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:32:53,646 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:32:53,647 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:32:58,650 - WARNING - Initiating bot restart...
+2026-01-11 19:33:02,933 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:33:02,935 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:33:02,980 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:33:02,981 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:33:07,984 - WARNING - Initiating bot restart...
+2026-01-11 19:33:11,320 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:33:11,321 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:33:11,364 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:33:11,368 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:33:20,460 - WARNING - Initiating bot restart...
+2026-01-11 19:33:22,945 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:33:22,946 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:33:22,967 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:33:22,968 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:33:27,970 - WARNING - Initiating bot restart...
+2026-01-11 19:33:29,806 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:33:29,808 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:33:29,829 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:33:29,830 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:33:37,610 - WARNING - Initiating bot restart...
+2026-01-11 19:33:39,429 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:33:39,430 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:33:39,451 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:33:39,453 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:33:44,455 - WARNING - Initiating bot restart...
+2026-01-11 19:33:46,262 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:33:46,263 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:33:46,283 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:33:46,285 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:34:42,668 - WARNING - Initiating bot restart...
+2026-01-11 19:34:44,450 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:34:44,452 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:34:44,471 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:34:44,472 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:34:49,475 - WARNING - Initiating bot restart...
+2026-01-11 19:35:02,320 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:35:02,321 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:35:02,340 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:35:02,342 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:35:07,344 - WARNING - Initiating bot restart...
+2026-01-11 19:35:09,107 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:35:09,108 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:35:09,127 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:35:09,128 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:36:43,744 - WARNING - Initiating bot restart...
+2026-01-11 19:36:45,626 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:36:45,627 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:36:45,647 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:36:45,648 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:36:50,651 - WARNING - Initiating bot restart...
+2026-01-11 19:36:52,451 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:36:52,452 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:36:52,471 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:36:52,472 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:37:00,296 - WARNING - Initiating bot restart...
+2026-01-11 19:37:02,176 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:37:02,178 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:37:02,198 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:37:02,200 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:37:07,203 - WARNING - Initiating bot restart...
+2026-01-11 19:37:09,013 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:37:09,014 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:37:09,034 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:37:09,036 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:37:33,804 - WARNING - Initiating bot restart...
+2026-01-11 19:37:35,614 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:37:35,615 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:37:35,642 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:37:35,643 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:37:40,644 - WARNING - Initiating bot restart...
+2026-01-11 19:37:42,455 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:37:42,456 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:37:42,476 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:37:42,477 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:45:08,952 - WARNING - Initiating bot restart...
+2026-01-11 19:45:10,761 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:45:10,762 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:45:10,780 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:45:10,786 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:45:15,789 - WARNING - Initiating bot restart...
+2026-01-11 19:45:17,599 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:45:17,600 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:45:17,618 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:45:17,620 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:48:26,169 - WARNING - Initiating bot restart...
+2026-01-11 19:48:29,395 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:48:29,397 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:48:29,439 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:48:29,441 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:48:34,445 - WARNING - Initiating bot restart...
+2026-01-11 19:48:39,941 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:48:39,946 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:48:39,983 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:48:39,985 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:48:44,995 - WARNING - Initiating bot restart...
+2026-01-11 19:48:53,009 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:48:53,010 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:48:53,029 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:48:53,030 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:48:58,031 - WARNING - Initiating bot restart...
+2026-01-11 19:48:59,890 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:48:59,891 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:48:59,909 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:48:59,910 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:52:10,485 - WARNING - Initiating bot restart...
+2026-01-11 19:52:12,344 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:52:12,346 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:52:12,368 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:52:12,369 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:52:17,370 - WARNING - Initiating bot restart...
+2026-01-11 19:52:19,153 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:52:19,154 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:52:19,173 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:52:19,175 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:55:41,791 - WARNING - Initiating bot restart...
+2026-01-11 19:55:43,734 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:55:43,736 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:55:43,753 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:55:43,754 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 19:55:48,756 - WARNING - Initiating bot restart...
+2026-01-11 19:55:50,566 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 19:55:50,567 - INFO - Starting client for ID: 4387768537
+2026-01-11 19:55:50,587 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 19:55:50,588 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 20:06:25,423 - WARNING - Initiating bot restart...
+2026-01-11 20:06:27,447 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:06:27,448 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:06:27,467 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 20:06:27,468 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 20:06:32,469 - WARNING - Initiating bot restart...
+2026-01-11 20:06:34,288 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:06:34,290 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:06:34,310 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 20:06:34,311 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 20:11:15,411 - WARNING - Initiating bot restart...
+2026-01-11 20:11:17,255 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:11:17,256 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:11:17,276 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 20:11:17,277 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 20:25:46,681 - WARNING - Initiating bot restart...
+2026-01-11 20:25:49,104 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:25:49,106 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:25:49,143 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2026-01-11 20:25:49,145 - INFO - Restarting the entire application in 5 seconds...
+2026-01-11 20:25:55,231 - WARNING - Initiating bot restart...
+2026-01-11 20:25:58,949 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:25:58,960 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:26:05,215 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 20:26:05,220 - INFO - Final token constructed successfully.
+2026-01-11 20:26:05,334 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 20:26:05,436 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 20:29:05,551 - ERROR - Whisper socket closed by remote host. Restarting.
+2026-01-11 20:29:05,597 - WARNING - Initiating bot restart...
+2026-01-11 20:29:05,615 - ERROR - Online socket closed by remote host. Restarting.
+2026-01-11 20:29:05,617 - WARNING - Initiating bot restart...
+2026-01-11 20:29:05,676 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 20:29:08,424 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:29:08,425 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:29:11,543 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 20:29:11,546 - INFO - Final token constructed successfully.
+2026-01-11 20:29:11,652 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 20:29:11,774 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 20:31:24,359 - CRITICAL - A critical unhandled error occurred in connect loop: [Errno 103] Software caused connection abort. Restarting.
+2026-01-11 20:31:24,340 - CRITICAL - Unhandled error in sockf1 loop: [Errno 103] Software caused connection abort. Restarting.
+2026-01-11 20:31:24,504 - WARNING - Initiating bot restart...
+2026-01-11 20:31:24,510 - WARNING - Initiating bot restart...
+2026-01-11 20:31:24,580 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 20:31:29,313 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:31:29,314 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:31:34,990 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 20:31:34,992 - INFO - Final token constructed successfully.
+2026-01-11 20:31:35,119 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 20:31:35,226 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 20:34:35,331 - ERROR - Whisper socket closed by remote host. Restarting.
+2026-01-11 20:34:35,339 - ERROR - Online socket closed by remote host. Restarting.
+2026-01-11 20:34:35,389 - WARNING - Initiating bot restart...
+2026-01-11 20:34:35,393 - WARNING - Initiating bot restart...
+2026-01-11 20:34:35,454 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 20:34:38,419 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:34:38,421 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:34:42,334 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 20:34:42,337 - INFO - Final token constructed successfully.
+2026-01-11 20:34:42,459 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 20:34:42,588 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 20:37:42,714 - ERROR - Whisper socket closed by remote host. Restarting.
+2026-01-11 20:37:42,744 - WARNING - Initiating bot restart...
+2026-01-11 20:37:42,822 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 20:37:45,241 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:37:45,242 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:37:49,344 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 20:37:49,345 - INFO - Final token constructed successfully.
+2026-01-11 20:37:49,627 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 20:37:49,894 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 20:40:49,752 - ERROR - Whisper socket closed by remote host. Restarting.
+2026-01-11 20:40:49,769 - WARNING - Initiating bot restart...
+2026-01-11 20:40:49,814 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 20:40:51,753 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:40:51,754 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:40:55,478 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 20:40:55,480 - INFO - Final token constructed successfully.
+2026-01-11 20:40:55,589 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 20:40:55,697 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 20:43:56,359 - ERROR - Whisper socket closed by remote host. Restarting.
+2026-01-11 20:43:56,375 - WARNING - Initiating bot restart...
+2026-01-11 20:43:56,435 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 20:43:58,442 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:43:58,443 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:44:19,124 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 20:44:19,126 - INFO - Final token constructed successfully.
+2026-01-11 20:44:19,234 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 20:44:19,431 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 20:47:19,433 - ERROR - Whisper socket closed by remote host. Restarting.
+2026-01-11 20:47:19,470 - WARNING - Initiating bot restart...
+2026-01-11 20:47:19,541 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 20:47:22,375 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:47:22,376 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:47:25,367 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 20:47:25,369 - INFO - Final token constructed successfully.
+2026-01-11 20:47:25,479 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 20:47:25,622 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 20:50:25,675 - ERROR - Whisper socket closed by remote host. Restarting.
+2026-01-11 20:50:25,694 - WARNING - Initiating bot restart...
+2026-01-11 20:50:25,728 - ERROR - Online socket closed by remote host. Restarting.
+2026-01-11 20:50:25,730 - WARNING - Initiating bot restart...
+2026-01-11 20:50:25,760 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 20:50:28,462 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:50:28,463 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:50:31,628 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 20:50:31,631 - INFO - Final token constructed successfully.
+2026-01-11 20:50:31,740 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 20:50:31,847 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 20:53:31,864 - ERROR - Whisper socket closed by remote host. Restarting.
+2026-01-11 20:53:31,881 - WARNING - Initiating bot restart...
+2026-01-11 20:53:31,926 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 20:53:35,584 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:53:35,585 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:53:39,473 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 20:53:39,476 - INFO - Final token constructed successfully.
+2026-01-11 20:53:39,605 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 20:53:39,727 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 20:56:39,767 - ERROR - Whisper socket closed by remote host. Restarting.
+2026-01-11 20:56:39,783 - WARNING - Initiating bot restart...
+2026-01-11 20:56:39,848 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 20:56:42,398 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 20:56:42,399 - INFO - Starting client for ID: 4387768537
+2026-01-11 20:56:45,125 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 20:56:45,127 - INFO - Final token constructed successfully.
+2026-01-11 20:56:45,237 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 20:56:45,349 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 20:58:42,931 - INFO - [AUTO] Auto start loop started for team 8428762
+2026-01-11 20:59:30,721 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:00:21,439 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:01:06,369 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:01:55,486 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:02:46,417 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:03:32,160 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:04:24,239 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:05:16,662 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:06:02,602 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:06:58,019 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:07:41,294 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:08:32,370 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:09:17,592 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:10:05,534 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:10:58,985 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:11:49,484 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:12:42,884 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:13:25,942 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:14:19,444 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:15:08,334 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:15:55,378 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:16:40,817 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:17:34,206 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:18:21,519 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:19:16,224 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:19:59,577 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:21:05,158 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:21:59,811 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:22:46,509 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:23:40,148 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:24:29,672 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:25:31,375 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:26:14,751 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:27:01,583 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:27:45,142 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:28:51,122 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:29:49,823 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:30:34,527 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:31:23,084 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:32:06,737 - CRITICAL - Unhandled error in sockf1 loop: [Errno 103] Software caused connection abort. Restarting.
+2026-01-11 21:32:06,740 - CRITICAL - A critical unhandled error occurred in connect loop: [Errno 103] Software caused connection abort. Restarting.
+2026-01-11 21:32:06,742 - WARNING - Initiating bot restart...
+2026-01-11 21:32:06,746 - WARNING - Initiating bot restart...
+2026-01-11 21:32:06,929 - ERROR - Error during pre-restart cleanup: (pid=14206)
+2026-01-11 21:32:10,450 - INFO - Main execution block started (/lw, /stop, /help bot).
+2026-01-11 21:32:10,451 - INFO - Starting client for ID: 4387768537
+2026-01-11 21:32:13,520 - INFO - Token decoded. Account ID: 14346627484
+2026-01-11 21:32:13,522 - INFO - Final token constructed successfully.
+2026-01-11 21:32:13,651 - INFO - [WHISPER] Connected to 202.81.109.227:39801
+2026-01-11 21:32:13,757 - INFO - [ONLINE] Connected to 202.81.108.104:39699
+2026-01-11 21:32:57,066 - INFO - [AUTO] Auto start loop started for team 8428762
+2026-01-11 21:33:44,756 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:34:29,063 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:35:19,988 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:36:06,751 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:37:00,226 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:37:52,240 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:38:37,514 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:39:19,585 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:40:02,486 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:40:49,161 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:41:38,388 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:42:26,546 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:43:16,181 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:44:09,904 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:45:03,304 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:45:51,397 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:46:41,021 - INFO - [AUTO] Left team 8428762 to rejoin again.
+2026-01-11 21:47:27,366 - INFO - [AUTO] Left team 8428762 to rejoin again.
