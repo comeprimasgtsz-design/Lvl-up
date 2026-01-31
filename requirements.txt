@@ -1,4 +1,5 @@
 PyJWT
+flask
 requests
 protobuf
 protobuf-decoder
